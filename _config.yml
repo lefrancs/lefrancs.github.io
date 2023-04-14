@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Creator et à Travers"
 description              : &description "personal description"
 url                      : https://lefrancs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
